@@ -4,7 +4,7 @@
 
 
 ## Atividades
-- Cadastro de veículos.
-- Formas de pagamentos.
-- Sistema de avaliação.
-- Lista de veículos
+- _Cadastro de veículos._
+- _Formas de pagamentos._
+- _Sistema de avaliação._
+- _Lista de veículos_
