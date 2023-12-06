@@ -201,10 +201,6 @@ namespace ATVSistemaDeConcessionaria
             int opcao = int.Parse(Console.ReadLine());
             Console.WriteLine();
 
-            Console.Write("Digite seu nome: ");
-            string nomeComprador = Console.ReadLine();
-            Console.WriteLine();
-
             Veiculo veiculoEscolhido = null;
             switch (opcao)
             {
@@ -243,8 +239,14 @@ namespace ATVSistemaDeConcessionaria
                     break;
                 default:
                     Console.WriteLine("Opção inválida!");
-                    return;
+                    break;
             }
+
+
+
+            Console.Write("Digite seu nome: ");
+            string nomeComprador = Console.ReadLine();
+            Console.WriteLine();
 
             Console.WriteLine("Veículo escolhido por " + nomeComprador + ":");
             veiculoEscolhido.MostrarDetalhes();
@@ -254,9 +256,12 @@ namespace ATVSistemaDeConcessionaria
 
             Console.ReadLine();
             Console.WriteLine("Parabéns pela compra!");
+            Console.WriteLine("");
             Console.Write("Sr(a) " + nomeComprador + " Poderia está dando um feedback para o nosso atendimento? Nota: ");
             Console.ReadLine();
+            Console.WriteLine("");
             Console.WriteLine("Muito obrigado(a) " + nomeComprador + " O seu feedback é muito importante.");
+            Console.WriteLine("");
             Console.WriteLine("Volte sempre à Alta Racing!");
             Console.ReadLine();
         }
