@@ -22,6 +22,7 @@
 - _Sistema de FeedBack._
 - _Lista de veículos._
 - _Informação do cliente._
+- _Metodo de pagamentos._
 
 # Desenvolvimento
 
