@@ -184,17 +184,17 @@ namespace ATVSistemaDeConcessionaria
             Console.WriteLine("");
             Console.WriteLine("Opções de veículos disponíveis:");
             Console.WriteLine("");
-            Console.WriteLine("1. Fusca - Volkswagen");
-            Console.WriteLine("2. Fiesta - Ford");
-            Console.WriteLine("3. CB300 - Honda");
-            Console.WriteLine("4. Siena - Fiat");
-            Console.WriteLine("5. Uno - Fiat");
-            Console.WriteLine("6. Panamera - Porsche");
-            Console.WriteLine("7. Renegade - Jeep");
-            Console.WriteLine("8. Compass - Jeep");
-            Console.WriteLine("9. X4 - BMW");
-            Console.WriteLine("10. X3 - BMW");
-            Console.WriteLine("11. X1 - BMW");
+            Console.WriteLine("1. Fusca - Volkswagen - R$ 3.500");
+            Console.WriteLine("2. Fiesta - Ford - R$ 52.690");
+            Console.WriteLine("3. CB300 - Honda - R$ 52.590");
+            Console.WriteLine("4. Siena - Fiat - R$ 14.204");
+            Console.WriteLine("5. Uno - Fiat - R$ 84.990");
+            Console.WriteLine("6. Panamera - Porsche - R$ 680.000");
+            Console.WriteLine("7. Renegade - Jeep - R$ 125.990");
+            Console.WriteLine("8. Compass - Jeep - R$ 180.390");
+            Console.WriteLine("9. X4 - BMW - R$ 475.950");
+            Console.WriteLine("10. X3 - BMW - R$ 410.950");
+            Console.WriteLine("11. X1 - BMW - R$ 299.950");
             Console.WriteLine();
 
             Console.Write("Digite o número do veículo desejado: ");
