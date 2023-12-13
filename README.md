@@ -26,5 +26,5 @@
 # Desenvolvimento
 
 -   Código foi desenvolvido em csharp (c#).
--   Nosso código contem um sistema para pegar algumas informações do cliente.
+-   Nosso código contem um sistema para pegar algumas informações do cliente para um melhor atendimento.
 -   Um sistema de avaliação para sastifação para novos clientes.
