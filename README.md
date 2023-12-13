@@ -32,4 +32,4 @@
 
   ### Observações
 
- - O projeto está em fase de teste, Erros podem acontecer.
+ - O projeto está em fase de testes, Erros podem acontecer.
