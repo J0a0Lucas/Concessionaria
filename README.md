@@ -25,6 +25,6 @@
 
 # Desenvolvimento
 
--   Código foi desenvolvido na linguagem de programação C#
+-   Código foi desenvolvido em csharp (c#).
 -   Nosso código contem um sistema para pegar algumas informações do cliente.
 -   Um sistema de avaliação para sastifação para novos clientes.
