@@ -1,5 +1,5 @@
 // Aluno: João Lucas Pereira de Morais.
-// Aluno: Rikelme
+// Aluno: Stversom Rikelme F. Damasceno
 
 using System;
 using System.Collections.Generic;
@@ -239,6 +239,7 @@ namespace ATVSistemaDeConcessionaria
                     break;
                 default:
                     Console.WriteLine("Opção inválida!");
+                    return;
                     break;
             }
 
@@ -257,11 +258,12 @@ namespace ATVSistemaDeConcessionaria
             Console.WriteLine("1. Aceitamos todos tipos de cartão.");
             Console.WriteLine("2. Aceitamos pagamentos PIX");
             Console.WriteLine("3. Novo metodo! Aceitamos o seu antigo carro como entrada, (fale com atendente).");
-            Console.WriteLine("");
             Console.WriteLine("Qual meio de pagamento gostaria de usar? ");
+            Console.WriteLine("");
+
+
+
             Console.ReadLine();
-
-
             Console.WriteLine("Parabéns pela compra!");
             Console.WriteLine("");
             Console.Write("Sr(a) " + nomeComprador + " Poderia está dando um feedback para o nosso atendimento? Nota: ");
@@ -271,6 +273,6 @@ namespace ATVSistemaDeConcessionaria
             Console.WriteLine("");
             Console.WriteLine("Volte sempre à Alta Racing!");
             Console.ReadLine();
-        }
-    }
+        }
+    }
 }
