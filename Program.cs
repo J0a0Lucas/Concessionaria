@@ -1,4 +1,4 @@
-﻿// Aluno: João Lucas Pereira de Morais.
+// Aluno: João Lucas Pereira de Morais.
 // Aluno: Rikelme
 
 using System;
@@ -250,6 +250,16 @@ namespace ATVSistemaDeConcessionaria
 
             Console.WriteLine("Veículo escolhido por " + nomeComprador + ":");
             veiculoEscolhido.MostrarDetalhes();
+            Console.ReadLine();
+            
+            Console.WriteLine("Agora vamos para os metodos de pagamentos.");
+            Console.WriteLine("");
+            Console.WriteLine("1. Aceitamos todos tipos de cartão.");
+            Console.WriteLine("2. Aceitamos pagamentos PIX");
+            Console.WriteLine("3. Novo metodo! Aceitamos o seu antigo carro como entrada, (fale com atendente).");
+            Console.WriteLine("Qual meio de pagamento gostaria de usar? ");
+            Console.WriteLine("");
+            
 
 
             Console.ReadLine();
