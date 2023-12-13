@@ -1,5 +1,5 @@
 ﻿// Aluno: João Lucas Pereira de Morais.
-// Aluno:
+// Aluno: Rikelme
 
 using System;
 using System.Collections.Generic;
@@ -250,8 +250,6 @@ namespace ATVSistemaDeConcessionaria
 
             Console.WriteLine("Veículo escolhido por " + nomeComprador + ":");
             veiculoEscolhido.MostrarDetalhes();
-
-            // Aqui vou por as formas de pagamentos.
 
 
             Console.ReadLine();
