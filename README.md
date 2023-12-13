@@ -29,3 +29,7 @@
 -   Código foi desenvolvido em csharp (c#).
 -   Nosso código contem um sistema para pegar algumas informações do cliente para um melhor atendimento.
 -   Um sistema de avaliação para sastifação para novos clientes.
+
+  ### Observações
+
+ - O projeto está em fase de teste, Erros podem acontecer.
