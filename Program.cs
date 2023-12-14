@@ -258,6 +258,8 @@ namespace ATVSistemaDeConcessionaria
             Console.WriteLine("1. Aceitamos todos tipos de cartão.");
             Console.WriteLine("2. Aceitamos pagamentos PIX");
             Console.WriteLine("3. Novo metodo! Aceitamos o seu antigo carro como entrada, (fale com atendente).");
+            Console.WriteLine("");
+
             Console.WriteLine("Qual meio de pagamento gostaria de usar? ");
             Console.WriteLine("");
 
@@ -273,6 +275,6 @@ namespace ATVSistemaDeConcessionaria
             Console.WriteLine("");
             Console.WriteLine("Volte sempre à Alta Racing!");
             Console.ReadLine();
-        }
-    }
+        }
+    }
 }
