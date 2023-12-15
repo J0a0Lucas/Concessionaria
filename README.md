@@ -17,15 +17,17 @@
 - BMW
 
 
-## Atividades
+# Requisito Funcional (RF)
 
 - Requisito Funcional RF01 - Capturar nome do cliente.
 - Requisito Funcional RF02 - Informa as formas de pagar.
 - Requisito Funcional RF03 - Lista de veículos.
 - Requisito Funcional RF04 - Sistema de avaliação.
 
-- Requisito Funcional NRF01 - Validação de pagamento.
-- Requisito Funcional NRF02 - Resultado de avalição. 
+# Requisito Não Funcional (RNF)
+
+- Requisito Não Funcional RNF01 - Validação de pagamento.
+- Requisito Não Funcional RNF02 - Resultado de avalição. 
 
 # Desenvolvimento
 
