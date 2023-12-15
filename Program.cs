@@ -198,6 +198,11 @@ namespace ATVSistemaDeConcessionaria
             Console.WriteLine();
 
             Console.Write("Digite o número do veículo desejado: ");
+            Console.WriteLine("");
+            Console.WriteLine("|-------------------------------------------------------------------|");
+            Console.WriteLine("|* Caso venha colocar um numero inválido, O programa será encerrado!|");
+            Console.WriteLine("|-------------------------------------------------------------------|");
+            Console.WriteLine("");
             int opcao = int.Parse(Console.ReadLine());
             Console.WriteLine();
 
